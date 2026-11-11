@@ -1,0 +1,3 @@
+# PULSE
+
+PULSE accompanies the study “Beyond the postoperative haemoglobin nadir: preoperative air pollution and persistent haemoglobin deficits after orthopaedic surgery.” It integrates perioperative clinical records and preoperative environmental exposure histories to reconstruct seven-day postoperative haemoglobin trajectories and quantify a time-weighted relative-deficit burden (B7), examining how preoperative air pollution relates to persistent haemoglobin deficits after orthopaedic surgery. The datasets and implementation code will be made publicly available in this repository upon acceptance of the manuscript.
